@@ -7,12 +7,9 @@ summary: >-
   kann Tischtennis spielen.
 
   Kommt bei uns vorbei und probierts aus.
-metaDescription: >-
-  Ein Sport für Jeden. Ob Jung oder Alt, ob sportlich oder unsportlich, jeder
-  kann Tischtennis spielen.
-
-  Kommt bei uns vorbei und probierts aus.
-tags: []
+metaDescription: ""
+tags:
+  - nkx
 ---
 ### Ansprechpartner: Karl Kopp 015123456789 karlkopp@gmail.com
 
